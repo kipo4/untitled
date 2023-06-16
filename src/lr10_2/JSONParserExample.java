@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.Iterator;
 
 public class JSONParserExample {
-    private static final String FILE_PATH = "books.json";
+    private static final String FILE_PATH = "src/lr10_2/books.json";
 
     public static void main(String[] args) {
         JSONParserExample parser = new JSONParserExample();
